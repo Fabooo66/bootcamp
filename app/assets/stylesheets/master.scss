@@ -1,4 +1,4 @@
-@import "bootstrap";
+ @import url('https://fonts.googleapis.com/css?family=EB+Garamond&display=swap');
 
 .clear {
   clear: both;
@@ -35,10 +35,20 @@
       color: black;
       font-size: 25px;
       border-bottom: 1px solid #dfdfdf;
+      font-family: 'EB Garamond', serif;
+      font-weight: bold;
     }
     header {
       border-top: 9px solid #222222;
     }
     hr {
       clear:both;
+    }
+    h1 {
+    font-family: 'EB Garamond', serif;
+    
+    }
+    h2 {
+    font-family: 'EB Garamond', serif;
+    
     }
