@@ -1,5 +1,5 @@
  @import url('https://fonts.googleapis.com/css?family=EB+Garamond&display=swap');
-
+ @import "bootstrap";
 .clear {
   clear: both;
 }
@@ -24,9 +24,9 @@
     -webkit-transform: rotate(11deg); /* Opera, Chrome, and Safari */
     }
     .slogan {
-    font-family: 'EB Garamond', serif;
-    font-style: italic;
-    padding-top: 26px;
+      font-family: 'EB Garamond', serif;
+      font-style: italic;
+      padding-top: 26px;
     }
     .links {
       padding-top: 26px;
@@ -45,11 +45,11 @@
       clear:both;
     }
     h1 {
-    font-family: 'EB Garamond', serif;
+      font-family: 'EB Garamond', serif;
     
     }
     h2 {
-    font-family: 'EB Garamond', serif;
+      font-family: 'EB Garamond', serif;
     
     }
     .next-quote {
@@ -58,16 +58,16 @@
       font-size:20px;
     }
     .footer-blurb {
-    font-family:'EB Garamond', serif;
-    font-style: italic;
-    text-align: right;
-    font-size: 10px;
+      font-family:'EB Garamond', serif;
+      font-style: italic;
+      text-align: right;
+      font-size: 10px;
     }
     .logo:hover {
       text-decoration: none;
     }
     .about {
-     font-family:'EB Garamond', serif; 
+      font-family:'EB Garamond', serif; 
     }
     @media (max-width: 750px) {
       .footer-blurb {
@@ -75,7 +75,7 @@
       }
     }
     .modal {
-    font-family: 'EB Garamond', serif;
+      font-family: 'EB Garamond', serif;
     }
     h2 span {
       color: #dddddd;
